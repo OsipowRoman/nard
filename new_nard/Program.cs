@@ -46,7 +46,7 @@ namespace long_nurd
                     Console.SetCursorPosition(32, y);
                     Console.WriteLine(")");
                 }
-                for (int x = 0; x <= 14; x +=)
+                for (int x = 0; x <= 14; x ++)
                 {
                     Console.SetCursorPosition(x, 0);
                     Console.Write("");
