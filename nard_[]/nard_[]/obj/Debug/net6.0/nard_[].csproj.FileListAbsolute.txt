@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\nard_[].csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\nard_[].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\nard_[].AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\nard_[].AssemblyInfo.cs
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\nard_[].csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\bin\Debug\net6.0\nard_[].exe
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\bin\Debug\net6.0\nard_[].deps.json
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\bin\Debug\net6.0\nard_[].runtimeconfig.json
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\bin\Debug\net6.0\nard_[].dll
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\bin\Debug\net6.0\nard_[].pdb
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\nard_[].dll
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\refint\nard_[].dll
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\nard_[].pdb
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\nard_[].genruntimeconfig.cache
+C:\Users\Admin\Desktop\Курсы\Программирование\nard_[]\nard_[]\obj\Debug\net6.0\ref\nard_[].dll
